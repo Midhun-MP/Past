@@ -6,6 +6,8 @@ NSDate extension for easily getting the difference between two dates in terms of
 pod 'Past'
 ```
 
+In Swift use `import Past` and in Objective-C use `#import <Past/Past-Swift.h>` for importing the library.
+
 ###Constants
 
     enum PastOptions : Int
