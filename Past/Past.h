@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "Past-Swift.h"
 
 //! Project version number for Past.
 FOUNDATION_EXPORT double PastVersionNumber;
