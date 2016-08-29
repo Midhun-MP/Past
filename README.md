@@ -3,7 +3,7 @@ NSDate extension for easily getting the difference between two dates in terms of
 
 ###Cocoapod
 ```
-pod install 'Past'
+pod 'Past'
 ```
 
 ###Constants
